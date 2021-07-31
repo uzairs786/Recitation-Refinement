@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@300&display=swap');
 
 * {
-   margin: 0;
-   padding: 0;
-   border: none; 
+    margin: 0;
+    padding: 0;
+    border: none;
 }
 
 body {
@@ -13,20 +13,51 @@ body {
 }
 
 h1 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
     color: #2E6070;
 }
 
 h2 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
     color: #2E6070;
 }
+
+/* header */
+
 #logo {
     float: left;
-    height: 250px;
-    width: 220px;
+    height: 200px;
+    width: 170px;
     margin-left: 20px;
+}
+
+#menu {
+    font-size: 150%;
+    letter-spacing: 2px;
+}
+
+#menu, #logo {
+    line-height: 200px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding: 10px 10px 10px 10px;
+    margin: 0px 20px 0px 20px;
+}
+
+#menu a:hover {
+    border: 3px solid #2E6070;
+    border-radius: 5%;
 }
