@@ -133,10 +133,9 @@ h2 {
     float: right;
 }
 
-#center-image {
+#center-content {
     width: 33%;
     margin: 0 auto;
-    background-color: green;
 }
 
 .left-heading {
@@ -144,7 +143,7 @@ h2 {
     line-height: 30px;
     float: right;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -153,7 +152,7 @@ h2 {
     line-height: 30px;
     float: left;
     clear: both;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
@@ -168,8 +167,57 @@ hr {
     padding-bottom: 10px;
 }
 
-#center-content {
+#center-container {
+    width: 500px;
+    height: 500px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+#center-image {
     background: url(../images/center-image.png) no-repeat center center;
     height: 100%;
-    margin-bottom: 20px;
+}
+
+/* Media queries */
+
+@media screen and (max-width: 1200px) {
+    #why-us {
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #why-us-heading {
+        padding: 30px 0;
+        margin: 0;
+    }
+
+    #left-text, #right-text {
+        width: 100%;
+        float: left;
+        padding: 0; 
+    }
+
+    #center-content {
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0
+    }
+
+    hr {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 950px) {
+
+    #menu {
+        clear: left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
 }
