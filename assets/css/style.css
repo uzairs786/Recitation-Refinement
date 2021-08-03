@@ -121,16 +121,16 @@ h2 {
 }
 
 #left-text {
-    padding-top: 30px;
+    padding-top: 150px;
     width: 33%;
     float: left;
+
 }
 
 #right-text {
-    padding-top: 30px;
+    padding-top: 150px;
     width: 33%;
     float: right;
-    background-color: blue;
 }
 
 #center-image {
@@ -145,9 +145,31 @@ h2 {
     float: right;
     clear: both;
     margin-bottom: 50px;
+    text-align: center;
+}
+
+.right-heading {
+    width: 70%;
+    line-height: 30px;
+    float: left;
+    clear: both;
+    margin-bottom: 50px;
+    text-align: center;
 }
 
 hr {
     border: 2px solid #2E6070;
 }
 
+#why-us-heading {
+    text-align: center;
+    font-size: 300%;
+    padding-top: 40px;
+    padding-bottom: 10px;
+}
+
+#center-content {
+    background: url(../images/center-image.png) no-repeat center center;
+    height: 100%;
+    margin-bottom: 20px;
+}
