@@ -124,7 +124,6 @@ h2 {
     padding-top: 30px;
     width: 33%;
     float: left;
-    background-color: red;
 }
 
 #right-text {
@@ -138,5 +137,17 @@ h2 {
     width: 33%;
     margin: 0 auto;
     background-color: green;
+}
+
+.left-heading {
+    width: 70%;
+    line-height: 30px;
+    float: right;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+hr {
+    border: 2px solid #2E6070;
 }
 
