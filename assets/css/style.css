@@ -76,4 +76,17 @@ h2 {
     height: 600px;
     background: url('../images/hero-image.jpg') no-repeat center center;
     background-size: cover;
+
+    animation-name: picture-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: forwards;
+}
+
+@keyframes picture-zoom {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.4);
+    }
 }
