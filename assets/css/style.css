@@ -19,7 +19,7 @@ body {
     color: #2E6070;
 }
 
-h2 {
+.sub-heading-font {
     font-family: 'Trebuchet MS', sans-serif;
     letter-spacing: 2px;
     color: #2E6070;
@@ -73,7 +73,7 @@ h2 {
 }
 
 #image-text,
-#image-text h2 {
+#image-text .sub-heading-font {
     color: #ffff
 }
 
@@ -207,7 +207,7 @@ hr {
     padding: 20px;
 }
 
-form .header-font {
+form .heading-font {
     color: #fafafa;
     font-size: 250%;
     text-align: center;
@@ -218,7 +218,7 @@ form hr {
     border: 1px solid #fafafa;
 }
 
-form h2 {
+form .sub-heading-font {
     color: #fafafa;
     text-align: center;
     padding: 20px;
