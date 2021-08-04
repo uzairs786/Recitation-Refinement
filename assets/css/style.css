@@ -271,20 +271,24 @@ form .sub-heading-font {
 
     #why-us-heading {
         padding: 1.9rem 0;
-        margin: 0;
+        margin: auto;
     }
 
     #left-text,
     #right-text {
         width: 100%;
-        float: left;
+        margin: auto;
         padding: 0;
+    }
+
+    .left-heading, .right-heading {
+        width: 100%;
+        float: none;
     }
 
     #center-content {
         clear: both;
         width: 100%;
-        float: left;
         padding: 0;
     }
 
