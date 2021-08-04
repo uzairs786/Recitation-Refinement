@@ -74,7 +74,8 @@ body {
 
 #image-text,
 #image-text .sub-heading-font {
-    color: #ffff
+    color: #ffff;
+    margin-top: 1rem;
 }
 
 #image-text {
@@ -82,10 +83,10 @@ body {
     letter-spacing: 3px;
     text-align: center;
     width: 31.25rem;
-    height: 9.4rem;
+    height: 10rem;
     background-color: rgba(0, 3, 99, 0.4);
     top: 12.5rem;
-    left: 18.75rem;
+    left: 18.8rem;
     position: absolute;
 }
 
