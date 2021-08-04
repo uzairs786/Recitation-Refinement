@@ -290,10 +290,6 @@ form h2 {
     hr {
         display: none;
     }
-
-    #center-image {
-        background-size: 60%;
-    }
 }
 
 @media screen and (max-width: 950px) {
