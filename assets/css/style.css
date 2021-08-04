@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?600&family=Poppins:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -12,7 +12,7 @@ body {
     color: #3a3a3a;
 }
 
-h1 {
+.header-font {
     font-family: 'Trebuchet MS', sans-serif;
     text-transform: uppercase;
     letter-spacing: 5px;
@@ -81,17 +81,12 @@ h2 {
     font-size: 120%;
     letter-spacing: 3px;
     text-align: center;
-
     width: 500px;
     height: 150px;
-
     background-color: rgba(0, 3, 99, 0.4);
-
     top: 200px;
     left: 300px;
-
     position: absolute;
-
 }
 
 #hero-image {
@@ -114,6 +109,12 @@ h2 {
         transform: scale(1.4);
     }
 }
+
+/* About Us Section */
+
+
+
+
 
 /* Why Us Section */
 
@@ -206,7 +207,7 @@ hr {
     padding: 20px;
 }
 
-form h1 {
+form .header-font {
     color: #fafafa;
     font-size: 250%;
     text-align: center;
