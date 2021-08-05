@@ -251,6 +251,12 @@ form .sub-heading-font {
     height: 1.9rem;
     margin: 5px 0 20px 0;
     border-radius: 2%;
+    display: flex;
+}
+
+#label-email {
+    display: flex;
+    padding-top: 1rem;
 }
 
 .text-input:hover {
@@ -281,7 +287,6 @@ form .sub-heading-font {
     background-color: #2E6070;
     color: #fafafa;
 }
-
 /* Media Queries */
 @media screen and (max-width: 1200px) {
     #why-us {
