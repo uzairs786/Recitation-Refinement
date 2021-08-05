@@ -114,7 +114,7 @@ body {
 
 /* About Us Section */
 #about-us-section {
-    height: 40.6rem;
+    height: 42.5rem;
     background-color: rgb(185, 185, 185);
 }
 
@@ -142,7 +142,7 @@ body {
 /* Why Us Section */
 
 #why-us {
-    height: 40.6rem;
+    height: 42.5rem;
     padding-top: 3.1rem;
 }
 
@@ -313,7 +313,7 @@ form .sub-heading-font {
     /*Why Us*/
     #why-us {
         width: 65%;
-        height: 75rem;
+        height: 80rem;
         margin: auto;
     }
 
@@ -337,11 +337,21 @@ form .sub-heading-font {
     #center-content {
         clear: both;
         width: 100%;
+        margin: 0 auto;
         padding: 0;
     }
 
     .line {
         display: none;
+    }
+
+    /*Form Section*/
+    .form-section {
+        height: 45rem;
+    }
+
+    .register-form {
+        max-width: 80%;
     }
 }
 
@@ -371,5 +381,11 @@ form .sub-heading-font {
         width: 8.1rem;
         margin-left: 30%;
         padding-bottom: 0.63rem;
+    }
+
+    /* Form Section */
+
+    .levels {
+        margin-left: auto;
     }
 }
