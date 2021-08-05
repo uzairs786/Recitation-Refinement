@@ -298,6 +298,13 @@ form .sub-heading-font {
 }
 /* Media Queries */
 @media screen and (max-width: 1200px) {
+    #menu li {
+        padding-right: 5px;
+        padding-left: 5px;
+        margin: 0;
+    }
+
+
     /* About Us */
 
     #about-us-section {
@@ -366,11 +373,11 @@ form .sub-heading-font {
 @media screen and (max-width: 950px) {
     #menu {
         clear: both;
-        float: left;
+        float: none;
         font-size: 125%;
-        margin-left: 0.63rem;
-        margin-bottom: 1.25rem;
+        margin-left: 20%;
         line-height: 1.6rem;
+        display: inline-block;
     }
 
     #menu a {
@@ -387,8 +394,16 @@ form .sub-heading-font {
     #logo {
         height: 9.4rem;
         width: 8.1rem;
-        margin-left: 30%;
+        margin-left: 40%;
         padding-bottom: 0.63rem;
+    }
+
+    #image-text {
+        font-size: 1rem;
+        left: 1rem;
+        width: 60%;
+        height: auto;
+        padding-bottom: 5px;
     }
 
     /* Form Section */
@@ -407,6 +422,15 @@ form .sub-heading-font {
     #menu li {
         padding: 5px;
         text-align: center;
+    }
+
+    #logo {
+        margin-left: 30%;
+    }
+    
+    #image-text {
+        font-size: 0.8rem;
+        width: 50%;
     }
 
     #about-us-section {
@@ -432,6 +456,7 @@ form .sub-heading-font {
     #center-container {
         height: 18rem;
         width: 18rem;
+        right: 3rem;
     }
 
     .form-section {
