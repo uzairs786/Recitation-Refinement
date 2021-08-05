@@ -290,7 +290,8 @@ form .sub-heading-font {
 }
 /* Media Queries */
 @media screen and (max-width: 1200px) {
-    
+    /* About Us */
+
     #about-us-section {
         width: 100%;
         height: 45rem;
@@ -309,6 +310,7 @@ form .sub-heading-font {
         
     }
 
+    /*Why Us*/
     #why-us {
         width: 65%;
         height: 75rem;
