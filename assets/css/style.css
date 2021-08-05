@@ -400,7 +400,7 @@ form .sub-heading-font {
 
     #image-text {
         font-size: 1rem;
-        left: 1rem;
+        left: 3rem;
         width: 60%;
         height: auto;
         padding-bottom: 5px;
@@ -456,7 +456,6 @@ form .sub-heading-font {
     #center-container {
         height: 18rem;
         width: 18rem;
-        right: 3rem;
     }
 
     .form-section {
