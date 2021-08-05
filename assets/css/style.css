@@ -371,7 +371,7 @@ form .sub-heading-font {
         left: 3rem;
         width: 60%;
         height: auto;
-        padding-bottom: 5px;
+        padding: 5px;
     }
 
     .levels {
@@ -397,7 +397,7 @@ form .sub-heading-font {
     }
 
     #menu li {
-        padding: 0.63rem;
+        padding-right: 1.9rem;
         margin: 0;
     }
 
