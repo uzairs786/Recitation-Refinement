@@ -181,7 +181,7 @@ body {
     text-align: center;
 }
 
-hr {
+.line {
     border: 2px solid #2E6070;
     width: 100%;
 }
@@ -237,7 +237,7 @@ form .heading-font {
     padding: 1.25rem;
 }
 
-form hr {
+form .line {
     border: 1px solid #fafafa;
 }
 
@@ -340,7 +340,7 @@ form .sub-heading-font {
         padding: 0;
     }
 
-    hr {
+    .line {
         display: none;
     }
 }
