@@ -366,7 +366,6 @@ form .sub-heading-font {
 }
 /*Media Queries for Medium Screens*/
 @media screen and (max-width: 950px) {
-   
     #image-text {
         font-size: 1rem;
         left: 3rem;
@@ -377,6 +376,36 @@ form .sub-heading-font {
 
     .levels {
         margin-left: auto;
+    }
+}
+
+/*Media Queries for Medium-Small Size Screen*/
+@media screen and (max-width: 800px) {
+    #menu {
+        clear: both;
+        float: none;
+        font-size: 125%;
+        margin-left: 20%;
+        line-height: 1.6rem;
+        display: inline-block;
+    }
+
+    #menu a {
+        padding: 2px;
+        margin: 0;
+        width: 20%;
+    }
+
+    #menu li {
+        padding: 0.63rem;
+        margin: 0;
+    }
+
+    #logo {
+        height: 9.4rem;
+        width: 8.1rem;
+        margin-left: 40%;
+        padding-bottom: 0.63rem;
     }
 }
 
