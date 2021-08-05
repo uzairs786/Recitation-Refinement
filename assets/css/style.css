@@ -224,6 +224,7 @@ hr {
     color: #fafafa;
     background-color: rgba(58, 58, 58, 1);
     max-width: 60%;
+    height: auto;
     position: absolute;
     position: relative;
     padding: 1.25rem;
@@ -289,10 +290,29 @@ form .sub-heading-font {
 }
 /* Media Queries */
 @media screen and (max-width: 1200px) {
+    
+    #about-us-section {
+        width: 100%;
+        height: 45rem;
+        margin: 0 auto;
+    }
+
+    #about {
+        padding: 1.9rem 0;
+        margin: auto;
+    }
+
+    #description {
+        font-size: 1.2rem;
+        width: 70%;
+        margin: 0 auto;
+        
+    }
+
     #why-us {
         width: 65%;
         height: 75rem;
-        margin: 0 auto;
+        margin: auto;
     }
 
     #why-us-heading {
