@@ -277,6 +277,7 @@ form .sub-heading-font {
     padding: 0.63rem;
     margin-left: 3.1rem;
     font-size: 90%;
+    text-decoration: none;
 }
 
 .register-button {
