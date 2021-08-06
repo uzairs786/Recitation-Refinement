@@ -309,6 +309,7 @@ footer p {
     text-align: center;
     letter-spacing: 4px;
     padding: 1rem;
+    margin-bottom: 1rem;
 }
 
 .social-media {
@@ -318,8 +319,7 @@ footer p {
 
 .social-media li {
     display: inline;
-    margin-left: 6rem;
-    margin-right: 6rem;
+    margin: 6rem;
 }
 
 .social-media i {
