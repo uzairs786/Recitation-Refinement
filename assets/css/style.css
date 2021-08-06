@@ -462,7 +462,7 @@ a {
     }
 }
 
-/*Media Queries for Small Screens*/
+/*Media Queries for Middle-Small Screens*/
 @media screen and (max-width: 650px) {
     #menu {
         font-size: 0.8rem;
@@ -515,5 +515,13 @@ a {
     footer p {
         font-size: 80%;
         letter-spacing: normal;
+    }
+}
+
+/* Media Queries for smaller screen size */
+@media screen and (max-width: 450px) {
+    #menu {
+        font-size: 0.8rem;
+        margin-left: 7%;
     }
 }
