@@ -5,3 +5,9 @@ Recitation Refinement is a Qur'anic Education Group that serves the need of Adul
 In an era of technological advances with smartphones, many users will be visiting the site just from their mobiles. Therefore, the site uses a one-page format, as this brings ease to users who wish to view the website on their phones. 
 
 ![responsive design picture](assets/images/responsive-design.png)
+
+# Features 
+
+## Header
+
+- The opening section of the page is the header which contains the logo and the navigation menu. 
