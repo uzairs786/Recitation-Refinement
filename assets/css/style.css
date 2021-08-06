@@ -45,13 +45,13 @@ body {
 }
 
 #menu {
-    font-size: 150%;
+    font-size: 1.4rem;
     letter-spacing: 2px;
 }
 
 #menu,
 #logo {
-    line-height: 200px;
+    line-height: 9rem;
 }
 
 #menu li {
