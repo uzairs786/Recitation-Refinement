@@ -39,8 +39,8 @@ body {
 
 #logo {
     float: left;
-    height: 200px;
-    width: 170px;
+    height: auto;
+    width: 8rem;
     margin-left: 20px;
 }
 
