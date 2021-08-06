@@ -518,10 +518,19 @@ a {
     }
 }
 
-/* Media Queries for smaller screen size */
+/* Media Queries for Small Screen Size*/
 @media screen and (max-width: 450px) {
     #menu {
         font-size: 0.8rem;
-        margin-left: 7%;
+        margin-left: 10%;
+    }
+}
+
+/* Media Queries for very Small Screen Size */
+@media screen and (max-width: 320px) {
+    #menu {
+        font-size: 0.6rem;
+        margin-left: 10%;
+        padding: none;
     }
 }
