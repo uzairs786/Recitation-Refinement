@@ -428,7 +428,7 @@ a {
 }
 
 /*Media Queries for Medium-Small Size Screen*/
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 860px) {
     #menu {
         clear: both;
         float: none;
@@ -463,10 +463,10 @@ a {
 }
 
 /*Media Queries for Small Screens*/
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 650px) {
     #menu {
         font-size: 0.8rem;
-        margin-left: 5%;
+        margin-left: 0 auto;
     }
 
     #menu li {
