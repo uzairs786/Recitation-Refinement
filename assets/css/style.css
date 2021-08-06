@@ -316,7 +316,7 @@ footer p {
     border: none;
 }
 
-.social-media > li {
+.social-media li {
     display: inline;
     color: none;
     margin-left: 6rem;
@@ -327,6 +327,9 @@ footer p {
     font-size: 180%;
     padding: 0.63rem;
     color: #2E6070;
+}
+
+a {
     text-decoration: none;
 }
 
