@@ -297,6 +297,13 @@ form .sub-heading-font {
     color: #fafafa;
 }
 
+footer p {
+    font-weight: 700;
+    text-align: center;
+    letter-spacing: 4px;
+    padding: 1.2rem;
+}
+
 /* Media Queries */
 @media screen and (max-width: 1200px) {
     #menu li {
