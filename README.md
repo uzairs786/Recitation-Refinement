@@ -68,7 +68,7 @@ In an era of technological advances with smartphones, many users will be visitin
 - It then changes to a white colour with the same dark blue colour upon hovering to match the style of hovering over the navigation menu.
 - Directs the user to the respective site on a new page.
 
-![footer section](assets/images/footer-section.png)
+![footer section](assets/images/footer.png)
 
 ## Responsive Design
 
@@ -76,7 +76,9 @@ The Header content, the 'Why Us' section, the Register Form and Footer were the 
 
 The flow of both mobile and tablet designs are consistent and work well. The logo and navigation menu were centered and stacked in order to prevent both elements from being congested. Below is the mobile version of the site:
 
-![mobile responsive design](assets/images/mobile-responsive-design.JPG)         ![mobile responsive design 2](assets/images/mobile-responsive-design-2.JPG)   
+![mobile responsive design](assets/images/mobile-responsive-design.png)         ![mobile responsive design 2](assets/images/mobile-responsive-design-2.png)   
+
+
 
 
 

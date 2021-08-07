@@ -500,6 +500,7 @@ a {
     #center-container {
         height: 18rem;
         width: 18rem;
+        margin: 0 auto;
     }
 
     .form-section {
