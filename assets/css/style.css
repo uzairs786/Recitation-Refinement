@@ -460,7 +460,7 @@ a {
 @media screen and (max-width: 650px) {
     #menu {
         font-size: 1rem;
-        margin-left: 0 auto;
+        margin-left: auto;
     }
 
     #menu li {
@@ -526,6 +526,6 @@ a {
     #menu {
         font-size: 0.6rem;
         margin-left: 10%;
-        padding: none;
+        padding: 0;
     }
 }
