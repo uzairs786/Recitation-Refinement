@@ -72,11 +72,15 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ## Responsive Design
 
-The Header content, the 'Why Us' section, the Register Form and Footer were the main sections considered when coding the media queries for tablet and mobile screens. Some time was spent in particular with the the 'Why Us' section in order to ensure the elements became stacked upon one another and that all content became centrally aligned. This would prevent compromising the section to having a small image and and small text which would not be user-friendly. 
+The Header content, the 'Why Us' section, the Register Form and Footer were the main sections considered when coding the media queries for tablet and mobile screens. Some time was spent in particular with the the 'Why Us' section in order to ensure the elements became stacked upon one another. This would prevent compromising the section to having a small image and and small text which would not be user-friendly. 
 
 The flow of both mobile and tablet designs are consistent and work well. The logo and navigation menu were centered and stacked in order to prevent both elements from being congested. Below is the mobile version of the site:
 
-![mobile responsive design](assets/images/mobile-responsive-design.png)         ![mobile responsive design 2](assets/images/mobile-responsive-design-2.png)   
+![mobile responsive design](assets/images/mobile-responsive-design.png)     ![mobile responsive design 2](assets/images/mobile-responsive-design-2.png) 
+
+The radio options of the register option flowed onto the next line which is fine as the text for the options are low and so the user can easily distinguish between that and the labels. The footer content involved the text becoming a smaller font to be relative to the screen size and the icons becoming slightly closer together. 
+
+![mobile responsive design 2](assets/images/mobile-responsive-design-3.png)     ![mobile responsive design 2](assets/images/mobile-responsive-design-4.png) 
 
 
 
