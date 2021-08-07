@@ -36,6 +36,19 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ![about us section](assets/images/about-us-section.png)
 
+## Why Us
+
+- This section outlines the qualities of the organisation that makes them distinct to other Islamic institutions. 
+- The heading font is consistent with the font of the the heading of the about us section and the heading of the image text of the hero image. This will further develop the feeling of familiarity and make the user feel at home. 
+- There are 4 subheadings with respective paragraphs to outline the distinct features of the programme and each sub-section is focussed on what the user would receive by registering to the programme. 
+- The paragraph text are all consistent in colour and font with one-another and with the paragraph text of the 'about us' section and navigation menu. 
+- The subheading font and colour is also consistent with the heading font, but it is not capitalised in order to clearly distinguish it as a subheading. 
+- The Center Image is an image of the current group of students and has a circular frame in order to depict the fact the user themselves will be part of a circle of students on the same journey. 
+- The Information surround the image in order to depict the idea that the organisation conducts classes and programmes centered around the student's needs. 
+- A plain, white background was kept in order to maintain the colour scheme of the organisation and to distinguish it as a separate section for the user, aswell as provide contrast with colour of the text. 
+
+![why us section](assets/images/why-us-section.png)
+
 
 
 
