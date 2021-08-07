@@ -61,3 +61,13 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ![register form section](assets/images/register-form-section.png)
 
+## Footer
+
+- Encourages users to stay up to date with the programme by following social networks
+- It contains Social Media Icons that have the same dark blue colour to still remain consistent with the colour scheme of the page.
+- It then changes to a white colour with the same dark blue colour upon hovering to match the style of hovering over the navigation menu.
+- Directs the user to the respective site on a new page.
+
+![footer section](assets/images/footer-section.png)
+
+
