@@ -95,6 +95,15 @@ Other intended features involve different pages to this website such as:
 - I confirmed that this website is responsive to all standard screen sizes: Desktop, Laptop, Tablet and Mobile. This was confirmed through regular use of the devtools device toolbar throughout the project
 - I confirmed that the form works: it requires entries in all fields, it requires an email address for the email field and it requires one of the three radio options to be selected for the 'level of recitation' field.
 
+## Validation 
+
+- HTML 
+  - No errors were returned when passing through the official W3C Validator.
+
+- CSS
+  - No errors were returned when passing through the official (Jigsaw) Validator.
+
+![W3C HTML validator](assets/images/w3c-html-validator.png)  ![W3C HTML validator](assets/images/jigsaw-css-validator.png) 
 
 
 
