@@ -110,7 +110,35 @@ Other intended features involve different pages to this website such as:
 
   ![W3C HTML validator](assets/images/lighthouse-test.png) 
 
-  
+## Bugs
+
+### Fixed Bugs
+---
+* <strong>Problem</strong> 🐞: White space on the right side of the website when using mobile devices.
+* <strong>Cause</strong>🛠: width and height of html, body were not defined as 100% in css.
+* <strong>Resolution</strong>✅: targetting the html, body elements in css and definining the width & height as 100%, margin & padding as 0 and overflow-x as hidden. 
+---
+---
+* <strong>Problem</strong> 🐞: Unable to create a space between the 'Email Address' Label and the 'Level of Recitation Label' in the Register Form.
+* <strong>Cause</strong>🛠: The email label was given a display-flex and there was no value for the padding-top set for the email label.
+* <strong>Resolution</strong>✅: Set the padding-top value to 1rem for the email label. 
+---
+---
+* <strong>Problem</strong> 🐞: Small line appearing next to the Font Awesome Social Media icons in the footer.
+* <strong>Cause</strong>🛠: Automated text-decoration applied to the anchor elements upon incorporating the icons.
+* <strong>Resolution</strong>✅: targetting the anchor elements and giving them text-decoration value of 'none'.  
+---
+### Unfixed Bugs
+
+- No unfixed bugs.
+
+
+
+
+
+
+
+
 
 
 
