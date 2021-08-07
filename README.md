@@ -34,6 +34,8 @@ In an era of technological advances with smartphones, many users will be visitin
 - The Title and Border are the same dark blue colour as seen within hovering over the menu options. This will further develop familiarity and recognition of the user with the organisation. 
 - The text colour is black in order to coordinate with the text-colour of the navigation menu and to also produce a clear contrast with the background. 
 
+![about us section](assets/images/about-us-section.png)
+
 
 
 
