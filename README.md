@@ -1,7 +1,6 @@
 ## Recitation Refinement
 
-Recitation Refinement is a Qur'anic Education Group that serves the need of Adult Muslims who wish to take the path of learning the recitation and memorisation of the Qur'an. The objective of this programme is to facilitate Qur'anic Education towards Muslims of all backgrounds. As this is an Islamic institution targetted towards Muslims that want to learn the Qur'an, I decided to ensure there was a Qur'anic theme throughout the entire webpage so that the audience can feel the purpose as soon as they visit the website.
-
+Recitation Refinement is a Qur'anic Education Group that serves the need of Adult Muslims who wish to take the path of learning the recitation and memorisation of the Qur'an. The objective of this programme is to facilitate Qur'anic Education towards Muslims of all backgrounds. As this is an Islamic institution targetted towards Muslims that want to learn the Qur'an, I decided to ensure there was a Qur'anic theme throughout the entire webpage so that the audience can feel the purpose as soon as they visit the websit
 In an era of technological advances with smartphones, many users will be visiting the site just from their mobiles. Therefore, the site uses a one-page format, as this brings ease to users who wish to view the website on their phones. 
 
 ![responsive design picture](assets/images/responsive-design.png)
