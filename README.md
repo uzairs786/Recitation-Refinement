@@ -80,7 +80,17 @@ The flow of both mobile and tablet designs are consistent and work well. The log
 
 The radio options of the register option flowed onto the next line which is fine as the text for the options are low and so the user can easily distinguish between that and the labels. The footer content involved the text becoming a smaller font to be relative to the screen size and the icons becoming slightly closer together. 
 
-![mobile responsive design 2](assets/images/mobile-responsive-design-3.png)     ![mobile responsive design 2](assets/images/mobile-responsive-design-4.png) 
+![mobile responsive design 2](assets/images/mobile-responsive-design-3.png) 
+
+## Features left to implement
+
+Other intended features involve different pages to this website such as:
+- A gallery page of images of students and classes.
+- A free resources page for PDF documents of any helpful resources that have been created for classes. 
+
+
+
+
 
 
 
