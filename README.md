@@ -16,6 +16,7 @@ In an era of technological advances with smartphones, many users will be visitin
 ### Navigation Bar
 - The navigation bar is located within the header and consists of the 'Poppins' font which is the same font as all the paragraph text in order to maintain consistency.
 - The options contain a hover function that changes the colour of the text to white and the background to a dark blue colour, which is in-line with the colour scheme of the logo. It also initiates the feeling of familiarity of the organisation due to the recognition of the same colour. 
+- Upon clicking the desired option, the user will find a smooth transition to the desired section that they wish to visit. This gives off a comfortable feeling for the user as the transition is not so sudden. 
 
 ![header section](assets/images/header.png)
 
