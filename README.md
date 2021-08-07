@@ -49,6 +49,15 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ![why us section](assets/images/why-us-section.png)
 
+## Register Form
 
+- This section contains the register form for the user to register their interest and to find out more information on the steps to join the programme.
+- The background of thesection is an open Qur'an which coordinates well with the hero image. But it also signifies the act of starting to learn the Qur'an which would give the user the feeling of beginning their journey of learning by submitting the form. 
+- The Register Form contains a charcoal grey background which distinctly outlines the form.
+- The text is in white in order to maintain consistency with the colour scheme of the webpage and also give complete contrast with the background.
+- The form requires first and last name, level of recitation with 3 level options and email address. 
+- The text input section changes to the same dark blue colour in order to give the user a feeling of action. 
+- The register button has a grey background with font that is in-line with the title the headings of the other sections. It also changes colour to the same dark blue background to maintain consistency and to give the feeling of change for the user. 
 
+![register form section](assets/images/register-form-section.png)
 
