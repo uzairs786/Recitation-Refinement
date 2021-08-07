@@ -105,6 +105,14 @@ Other intended features involve different pages to this website such as:
 
 ![W3C HTML validator](assets/images/w3c-html-validator.png)  ![W3C HTML validator](assets/images/jigsaw-css-validator.png) 
 
+- Accessibility
+  - I confirmed that the colours and fonts were chosen for easy read. I also confirmed that all external links would open in a new tab. This was confirmed through running the Lighthouse test tool using the devtools.
+
+  ![W3C HTML validator](assets/images/lighthouse-test.png) 
+
+  
+
+
 
 
 
