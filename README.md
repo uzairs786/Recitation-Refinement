@@ -89,6 +89,14 @@ Other intended features involve different pages to this website such as:
 - A gallery page of images of students and classes.
 - A free resources page for PDF documents of any helpful resources that have been created for classes. 
 
+# Testing
+
+- I confirmed that the site works well with all the features on all browsers: Chrome, Firefox and Safari.
+- I confirmed that this website is responsive to all standard screen sizes: Desktop, Laptop, Tablet and Mobile. This was confirmed through regular use of the devtools device toolbar throughout the project
+- I confirmed that the form works: it requires entries in all fields, it requires an email address for the email field and it requires one of the three radio options to be selected for the 'level of recitation' field.
+
+
+
 
 
 
