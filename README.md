@@ -128,6 +128,11 @@ Other intended features involve different pages to this website such as:
 * <strong>Cause</strong>🛠: Automated text-decoration applied to the anchor elements upon incorporating the icons.
 * <strong>Resolution</strong>✅: targetting the anchor elements and giving them text-decoration value of 'none'.  
 ---
+---
+* <strong>Problem</strong> 🐞: Accessibility score was slightly lower than expected due to the logo.
+* <strong>Cause</strong>🛠: The original size of the png file of the logo was too large.
+* <strong>Resolution</strong>✅: The file was compressed using [tinypng](https://tinypng.com/) and resized with css accordingly. 
+---
 ### Unfixed Bugs
 
 - No unfixed bugs.
@@ -139,7 +144,11 @@ Other intended features involve different pages to this website such as:
   From the source section drop-down menu, select the Master Branch
   Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-*The live link can be found here - [Recitation Refinement](https://uzairs786.github.io/Recitation-Refinement/)
+**The live link can be found here** - [Recitation Refinement](https://uzairs786.github.io/Recitation-Refinement/)
+
+
+
+
 
 
 
