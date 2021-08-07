@@ -70,4 +70,14 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ![footer section](assets/images/footer-section.png)
 
+## Responsive Design
+
+The Header content, the 'Why Us' section, the Register Form and Footer were the main sections considered when coding the media queries for tablet and mobile screens. Some time was spent in particular with the the 'Why Us' section in order to ensure the elements became stacked upon one another and that all content became centrally aligned. This would prevent compromising the section to having a small image and and small text which would not be user-friendly. 
+
+The flow of both mobile and tablet designs are consistent and work well. The logo and navigation menu were centered and stacked in order to prevent both elements from being congested. Below is the mobile version of the site:
+
+![mobile responsive design](assets/images/mobile-responsive-design.JPG)         ![mobile responsive design 2](assets/images/mobile-responsive-design-2.JPG)   
+
+
+
 
