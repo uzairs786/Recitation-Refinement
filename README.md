@@ -165,11 +165,6 @@ Other intended features involve different pages to this website such as:
 - The Hero Image was taken from [Celik al Quran](https://celikalquran.com/)
 - The Background Image of the Register Form was taken from [Isa and Islam - Religious Dialogue](https://www.isaandislam.com/muslim-beliefs/good-deeds-in-islam/)
 
-## Code
-- The code to make the image text, the center content of the why us section was taken from the CI [Love Running](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) Project. 
-- Debugging the white space appearing on mobile devices and adding the necessary code was possible through the Video of [Harshit Tewari](https://www.youtube.com/watch?v=OASSKoiCfqY&t=81s)
-- Debugging the line next to the social media icons and adding the necessary code was possible through the Blog of [Stack Overflow Forum](https://stackoverflow.com/questions/40119007/how-do-i-remove-this-little-line-between-font-awesome-icons?noredirect=1&lq=1)
-- Many thanks to my mentor Richard Wells who gave code to add scrollbar behaviour to smooth and for all his valuable feedback throughout the project.
 
 
 
