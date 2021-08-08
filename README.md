@@ -41,21 +41,21 @@ In an era of technological advances with smartphones, many users will be visitin
 
 - This section outlines the qualities of the organisation that makes them distinct to other Islamic institutions. 
 - The heading font is consistent with the font of the the heading of the about us section and the heading of the image text of the hero image. This will further develop the feeling of familiarity and make the user feel at home. 
-- There are 4 subheadings with respective paragraphs to outline the distinct features of the programme and each sub-section is focused on what the user would receive by registering to the programme. 
+- There are 4 subheadings with respective paragraphs to outline the distinct features of the programme. Each sub-section is focused on what the user would receive by registering to the programme.  
 - The paragraph text are all consistent in colour and font with one-another and with the paragraph text of the 'about us' section and navigation menu. 
 - The subheading font and colour is also consistent with the heading font, but it is not capitalised in order to clearly distinguish it as a subheading. 
-- The Center Image is an image of the current group of students and has a circular frame in order to depict the fact the user themselves will be part of a circle of students on the same journey. 
-- The Information surround the image in order to depict the idea that the organisation conducts classes and programmes centered around the student's needs. 
-- A plain, white background was kept in order to maintain the colour scheme of the organisation and to distinguish it as a separate section for the user, aswell as provide contrast with colour of the text. 
+- The center image is an image of the current group of students and has a circular frame in order to depict the fact the user themselves will be part of a circle of students on the same journey as others. 
+- The text surrounds the center image in order to mirror the different classes and programmes being centered around the student's needs. 
+- A plain, white background was kept in order to maintain the colour scheme of the organisation and to distinguish it as a separate section for the user, aswell as provide contrast with the colour of the text. 
 
 ![why us section](assets/images/why-us-section.png)
 
 ## Register Form
 
 - This section contains the register form for the user to register their interest and to find out more information on the steps to join the programme.
-- The background of thesection is an open Qur'an which coordinates well with the hero image. But it also signifies the act of starting to learn the Qur'an which would give the user the feeling of beginning their journey of learning by submitting the form. 
+- The background of this section is an open Qur'an which coordinates well with the hero image. But it also signifies the act of starting to learn the Qur'an which would give the user the feeling of beginning their journey of learning by submitting the form. 
 - The Register Form contains a charcoal grey background which distinctly outlines the form.
-- The text is in white in order to maintain consistency with the colour scheme of the webpage and also give complete contrast with the background.
+- The text is in white in order to maintain consistency with the colour scheme of the webpage and also gives complete contrast with the background.
 - The form requires first and last name, level of recitation with 3 level options and email address. 
 - The text input section changes to the same dark blue colour in order to give the user a feeling of action. 
 - The register button has a grey background with font that is in-line with the title the headings of the other sections. It also changes colour to the same dark blue background to maintain consistency and to give the feeling of change for the user. 
@@ -64,16 +64,16 @@ In an era of technological advances with smartphones, many users will be visitin
 
 ## Footer
 
-- Encourages users to stay up to date with the programme by following social networks
-- It contains Social Media Icons that have the same dark blue colour to still remain consistent with the colour scheme of the page.
+- This section simply encourages users to stay up to date with the programme by following their social networks.
+- It contains Social Media Icons that have the same dark blue colour in order to maintain the consistency of the colour scheme of the webpage.
 - It then changes to a white colour with the same dark blue colour upon hovering to match the style of hovering over the navigation menu.
-- Directs the user to the respective site on a new page.
+- It directs the user to the respective site on a new page.
 
 ![footer section](assets/images/footer.png)
 
 ## Responsive Design
 
-The Header content, the 'Why Us' section, the Register Form and Footer were the main sections considered when coding the media queries for tablet and mobile screens. Some time was spent in particular with the the 'Why Us' section in order to ensure the elements became stacked upon one another. This would prevent compromising the section to having a small image and and small text which would not be user-friendly. 
+The Header content, the 'Why Us' section, the Register Form and Footer were the main sections considered when coding the media queries for tablet and mobile screens. Some time was spent in particular with the the 'Why Us' section in order to ensure the elements become stacked upon one another as the screen size decreases. This would prevent compromising the section to having a small image and and small text which would not be user-friendly. 
 
 The flow of both mobile and tablet designs are consistent and work well. The logo and navigation menu were centered and stacked in order to prevent both elements from being congested. Below is the mobile version of the site:
 
@@ -81,7 +81,7 @@ The flow of both mobile and tablet designs are consistent and work well. The log
 
 ![mobile responsive design 2](assets/images/mobile-responsive-design-2.png) 
 
-The radio options of the register option flowed onto the next line which is fine as the text for the options are low and so the user can easily distinguish between that and the labels. The footer content involved the text becoming a smaller font to be relative to the screen size and the icons becoming slightly closer together. 
+The radio options of the register option flowed onto the next line which is fine as their font-size is low and so the user can easily distinguish between that and the labels. The footer content involved the text becoming a smaller font to be relative to the screen size and the icons becoming slightly closer together. 
 
 ![mobile responsive design 2](assets/images/mobile-responsive-design-3.png) 
 
@@ -89,7 +89,7 @@ The radio options of the register option flowed onto the next line which is fine
 
 Other intended features involve different pages to this website such as:
 - A gallery page of images of students and classes.
-- A free resources page for PDF documents of any helpful resources that have been created for classes. 
+- A resources page for PDF documents of any helpful resources that have been created for classes. 
 
 # Testing
 
@@ -131,7 +131,7 @@ Other intended features involve different pages to this website such as:
 * <strong>Resolution</strong>✅: targetting the anchor elements and giving them text-decoration value of 'none'.  
 ---
 ---
-* <strong>Problem</strong> 🐞: Accessibility score was slightly lower than expected due to the logo.
+* <strong>Problem</strong> 🐞: Accessibility score was initally slightly lower than expected due to the logo.
 * <strong>Cause</strong>🛠: The original size of the png file of the logo was too large.
 * <strong>Resolution</strong>✅: The file was compressed using [tinypng](https://tinypng.com/) and resized with css accordingly. 
 ---
@@ -158,8 +158,8 @@ Other intended features involve different pages to this website such as:
 ## Code
 - The code to make the image text, the center content of the why us section was taken from the CI [Love Running](https://github.com/Code-Institute-Solutions/Love-Running-Solutions) Project. 
 - Debugging the white space appearing on mobile devices and adding the necessary code was possible through the Video of [Harshit Tewari](https://www.youtube.com/watch?v=OASSKoiCfqY&t=81s)
-- Debugging the line next to the social media icons and adding the necessary code was possible through the Blog of [Stack Overflow Forum](https://stackoverflow.com/questions/40119007/how-do-i-remove-this-little-line-between-font-awesome-icons?noredirect=1&lq=1)
-- Many thanks to my mentor Richard Wells who gave code to add scrollbar behaviour to smooth and for all his valuable feedback throughout the project.
+- Debugging the line next to the social media icons and adding the necessary code was possible through [Stack Overflow Forum](https://stackoverflow.com/questions/40119007/how-do-i-remove-this-little-line-between-font-awesome-icons?noredirect=1&lq=1)
+- Many thanks to my mentor Richard Wells who gave code to add the smooth scrollbar behaviour and for all his valuable feedback throughout the project.
 
 ## Content 
 - The Body Font 'Poppins' was sourced from [Google Fonts](https://fonts.google.com/)
