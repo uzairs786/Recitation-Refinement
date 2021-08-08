@@ -139,6 +139,11 @@ Other intended features involve different pages to this website such as:
 
 - No unfixed bugs.
 
+# Technologies Used
+
+- HTML5
+- CSS
+
 # Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
